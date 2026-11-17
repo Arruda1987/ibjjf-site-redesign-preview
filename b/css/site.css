@@ -262,6 +262,12 @@ table.data tr:nth-child(even) td { background: #f3f5f7; }
 .band { padding: 1.8rem 0; }
 .band-navy { background: var(--primary); color: #fff; }
 .band-navy h2, .band-navy a { color: #fff; }
+.band-navy .btn-gold, .band-navy .btn-primary {
+  background: transparent; border-color: #fff; color: #fff;
+}
+.band-navy .btn-gold:hover, .band-navy .btn-primary:hover {
+  background: #fff; color: var(--primary);
+}
 .band-soft { background: #f7f7f7; }
 .notice { background: #fff; border: 1px solid var(--primary); padding: 1rem 1.1rem; margin: 0 0 1.1rem; }
 .event-hero {
