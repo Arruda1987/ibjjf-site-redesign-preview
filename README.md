@@ -5,4 +5,4 @@ Unofficial static prototype of the public ibjjf.com page set, presented in two u
 - Version A: `/a/` - system used on the 2027 Uniform preview and interactive Rule Changes pages
 - Version B: `/b/` - normalized language of the current ibjjf.com site
 
-This is not the live IBJJF website. Pages include `noindex,nofollow`.
+The preview includes the home page, first-level pages from the main menu, and a few second-level examples. Other detail pages link to a short notice. This is not the live IBJJF website. Pages include `noindex,nofollow`.
